@@ -1,0 +1,110 @@
+{
+  "timeslots": [
+    {
+      "id": 1,
+      "startTime": "2007-12-03T10:15:30",
+      "endTime": "2009-12-03T10:15:30",
+      "addresses": [
+        {
+          "street": "Main Street",
+          "country": "New York",
+          "line1": "NY",
+          "line2": "NY",
+          "postcode": "10001"
+          
+        },
+        {
+          "street": "Main Street",
+          "country": "New York",
+          "line1": "NY",
+          "line2": "NY",
+          "postcode": "10001"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "startTime": "2002-12-03T10:15:30",
+      "endTime": "2003-12-03T10:15:30",
+      "addresses": [
+        {
+          "street": "Main Street",
+          "country": "New York",
+          "line1": "NY",
+          "line2": "NY",
+          "postcode": "10001"
+        },
+        {
+          "street": "Main Street",
+          "country": "New York",
+          "line1": "NY",
+          "line2": "NY",
+          "postcode": "10001"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "startTime": "2022-12-03T10:15:30",
+      "endTime": "2024-01-04T10:15:30",
+      "addresses": [
+        {
+          "street": "Main Street",
+          "country": "New York",
+          "line1": "NY",
+          "line2": "NY",
+          "postcode": "10001"
+        },
+        {
+          "street": "Main Street",
+          "country": "New York",
+          "line1": "NY",
+          "line2": "NY",
+          "postcode": "10001"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "startTime": "2023-01-09T23:59:30",
+      "endTime": "2023-01-09T10:15:30",
+      "addresses": [
+        {
+          "street": "la guardia",
+          "country": "israel",
+          "line1": "NY",
+          "line2": "NY",
+          "postcode": "10003"
+        },
+        {
+          "street": "Main Street",
+          "country": "New York",
+          "line1": "NY",
+          "line2": "NY",
+          "postcode": "10004"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "startTime": "2023-01-11T23:59:30",
+      "endTime": "2023-01-12T10:15:30",
+      "addresses": [
+        {
+          "street": "la guardia",
+          "country": "israel",
+          "line1": "NY",
+          "line2": "NY",
+          "postcode": "10003"
+        },
+        {
+          "street": "Main Street",
+          "country": "New York",
+          "line1": "NY",
+          "line2": "NY",
+          "postcode": "10004"
+        }
+      ]
+    }
+  ]
+}
